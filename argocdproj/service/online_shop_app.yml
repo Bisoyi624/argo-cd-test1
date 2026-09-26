@@ -10,7 +10,7 @@ spec:
     targetRevision: main
     path: argocdproj/service
   destination:
-    server: https://172.31.13.181:33894   # Replace with your Cluster Url, To get run: `argocd cluster list`
+    server: https://172.31.13.30:33895    # Replace with your Cluster Url, To get run: `argocd cluster list`
     namespace: default
   syncPolicy:
     automated:
