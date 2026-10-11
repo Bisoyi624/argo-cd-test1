@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - bisoyi624/chai-devops:latest
+  - bisoyi624/chai-devops:v1.0.0
